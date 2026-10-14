@@ -23,15 +23,15 @@ The full suite for **Kingdom Come: Deliverance**, in one window inside the game 
 - **Chests**: every chest and stash in the level, locked ones marked.
 - **F8** goes to the current objective of the quest you last picked in the journal.
 - Jumps work on foot and on horseback and land on the floor.
-- **Languages**: English and Chinese for now, picked by your game's language setting; names, objectives and journal lines always come from the game's own text, in whatever language it runs.
+- **Languages**: follows your game's language setting. The Companion's own words are in English, Chinese, French and German; a game set to any other language gets English. Names of people, places, items, quests and journal lines always come from the game's own text, in whatever language it runs.
 
 ![The browser panel](screenshots/panel.png)
 
 ## Install
 
-**Installer**: download **`KCD-Companion-1.0.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD-Companion-1.1.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD-Companion-1.0.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
+**Manual**: download **`KCD-Companion-1.1.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
 
 **Nexus Mods**: https://www.nexusmods.com/kingdomcomedeliverance/mods/2406
 
