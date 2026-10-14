@@ -33,7 +33,7 @@ The full suite for **Kingdom Come: Deliverance**, in one window inside the game 
 
 **Manual**: download **`KCD-Companion-1.0.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
 
-<!-- nexus -->
+**Nexus Mods**: https://www.nexusmods.com/kingdomcomedeliverance/mods/2406
 
 ## Compatibility
 
