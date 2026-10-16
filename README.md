@@ -39,9 +39,10 @@ The full suite for **Kingdom Come: Deliverance**, in one window inside the game 
 
 Built and tested on Steam build **1.9.8** (22623230). Unlock on the Achievements tab checks the game's reward code byte by byte and stays off on another version. Test on a copy of your save first.
 
-## Kingdom Come: Deliverance II
+## Also by me
 
-The second game's trainer, with the same window, panel and tabs, is **KCD2 Companion**: https://github.com/registered2nd/kcd2-companion (Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812).
+- **Sandrock Companion** for My Time at Sandrock: go to your current objective, skip a step's busywork, give or find any item, achievements. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
+- **KCD2 Companion** for Kingdom Come: Deliverance II: the same window, panel and tabs for the second game. [GitHub](https://github.com/registered2nd/kcd2-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812)
 
 ## Credits
 
