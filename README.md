@@ -1,8 +1,8 @@
 # KCD Companion
 
-The full suite for **Kingdom Come: Deliverance**, in one window inside the game (**F6**) or a browser panel on a second screen. **Quests**: go straight to your current objective, skip the busywork up to the next real decision, or finish a quest on its best or worst ending. **Items**: all 2,052 laid out like a shop, best first with their damage, armour and price; give yourself any of them, or go to where one is sold or lying. **Achievements**: see which of the 82 you have and the quest or counter behind each, and unlock any of them. Then Henry's stats, skills and money, eight cheat modes, and every person, place and chest around you.
+A trainer for **Kingdom Come: Deliverance**. Press **F6** in the game, or open it in a browser on a second screen.
 
-**Quest Autopilot is inside**: its quest graph, safe advance, skip-to-decision and ending catalogue (135 quests, 506 endings) drive the Quests tab, and its `st_*` console commands still work.
+Go straight to your current quest objective, skip a quest's busywork up to the next real choice, give yourself any item, or change Henry's stats, skills and money. No console or launch options needed.
 
 ![The F6 window: Quests](screenshots/quests.png)
 
