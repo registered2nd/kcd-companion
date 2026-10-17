@@ -47,8 +47,8 @@ Built and tested on Steam build **1.9.8** (22623230). Unlock on the Achievements
 
 ## Also by me
 
-- **Sandrock Companion** for My Time at Sandrock: go to your current objective, skip a step's busywork, give or find any item, achievements. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
-- **KCD2 Companion** for Kingdom Come: Deliverance II: the same window, panel and tabs for the second game. [GitHub](https://github.com/registered2nd/kcd2-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812)
+- **Sandrock Companion** for My Time at Sandrock: the full suite: quests, items, achievements, stats and money, cheat modes, people, places and chests. [GitHub](https://github.com/registered2nd/sandrock-companion) · [Nexus Mods](https://www.nexusmods.com/mytimeatsandrock/mods/173)
+- **KCD2 Companion** for Kingdom Come: Deliverance II: the full suite: quests, items, achievements, Henry's stats and money, cheat modes, people, places and chests. [GitHub](https://github.com/registered2nd/kcd2-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812)
 
 ## Credits
 
