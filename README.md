@@ -1,8 +1,14 @@
 # KCD Companion
 
-A trainer for **Kingdom Come: Deliverance**. Press **F6** in the game, or open it in a browser on a second screen.
+The full suite for **Kingdom Come: Deliverance**, in one window inside the game (**F6**) or a browser panel on a second screen. No console needed.
 
-Go straight to your current quest objective, skip a quest's busywork up to the next real choice, give yourself any item, or change Henry's stats, skills and money. No console or launch options needed.
+- **Quests**: go to your current objective, skip the busywork up to the next real choice, or finish a quest on its best or worst ending.
+- **Items**: all 2,052. Give yourself any of them, or go to where one is sold or lying.
+- **Me**: Henry's health, stamina, stats, skills and money.
+- **Cheat modes**: God mode, infinite stamina, never hungry or tired, unseen and unheard, run faster, hit harder, carry more, learn faster.
+- **Achievements**: all 82, with what earns each. Unlock any of them.
+- **People, places and chests**: go to any of them, or bring a person to you.
+- **Misc**: save anywhere without Saviour Schnapps, bring your horse, and **F8** jumps to the quest you're tracking.
 
 ![The F6 window: Quests](screenshots/quests.png)
 
