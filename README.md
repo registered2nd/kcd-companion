@@ -2,7 +2,7 @@
 
 The full suite for **Kingdom Come: Deliverance**, in one window inside the game (**F6**) or a browser panel on a second screen. No console needed.
 
-- **Quests**: go to your current objective, skip the busywork up to the next real choice, or finish a quest on its best or worst ending.
+- **Quests**: go to your current objective, skip the busywork up to the next real choice, or finish any of 135 quests on its best or worst ending.
 - **Items**: all 2,052. Give yourself any of them, or go to where one is sold or lying.
 - **Me**: Henry's health, stamina, stats, skills and money.
 - **Cheat modes**: God mode, infinite stamina, never hungry or tired, unseen and unheard, run faster, hit harder, carry more, learn faster.
