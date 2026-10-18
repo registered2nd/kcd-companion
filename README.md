@@ -19,7 +19,7 @@ The full suite for **Kingdom Come: Deliverance**, in one window inside the game 
 
 ## Features
 
-- **Quests**: every started quest with its current objectives as journal lines; **Advance** completes one when its prerequisites are met (**Force** when they are not); **Go** to the current objective; **Skip to next decision** completes busywork and stops at a decision; **Best ending** and **Worst ending** run a quest to the outcome its writers marked. The quest's people with Go and Summon; views of every objective, every ending and finished quests.
+- **Quests**: every started quest with its current objectives as journal lines; **Advance** completes one when its prerequisites are met (**Force** when they are not), the way the game completes it: the items the conversation hands over or takes, the steps it starts, the items the game is waiting for. Where the game does more than the Companion can, the button reads **Advance (risky)** and asks first. **Go** to the current objective; **Skip to next decision** completes busywork and stops at a decision; **Best ending** and **Worst ending** run a quest to the outcome its writers marked, stopping at a risky step. The quest's people with Go and Summon; views of every objective, every ending and finished quests.
 - **Items**: all 2,052 in a category bar like the inventory's (weapons, armour and clothing, horse, food and drink, potions, herbs, books and maps, tools, keys, dice), each category in the groups you look for: swords to arrows, helmet to boots, healing to poison, skill books by skill, keys by village and house. Best first, with stab, slash, blunt, defence, noise, charisma or nourishment and the price beside each name. **Give** any quantity; **Go** to the shops, chests and spots one can be had, nearest first.
 - **Achievements**: all 82 Steam achievements with your earned state and date, each with the quest or counter behind it; **Unlock** sets an unearned one on your Steam account.
 - **Me**: health, stamina, nourishment and energy (refill one or all), groschen in steps up to +10,000, the four attributes and eighteen skills (+1 / +5 / Max).
@@ -33,11 +33,15 @@ The full suite for **Kingdom Come: Deliverance**, in one window inside the game 
 
 ![The browser panel](screenshots/panel.png)
 
+## Quest skips: read this
+
+Advance completes an objective without playing it. For most objectives the Companion does what the game does at that moment, from the game's own quest data: it hands over or takes the items the conversation would, starts what it starts, or gives you the items the game is waiting for. About one in eight journal objectives needs something it cannot do (a scene, a person walking off, a reputation change): those read **Advance (risky)**, their tooltip says what is missed, and they ask first. A risky skip can leave leftovers in your save, such as a person still waiting where the scene would have moved them or a later step that never gets its marker, and the only way back is a save from before it. Keep one, or use **Go** and play those parts.
+
 ## Install
 
-**Installer**: download **`KCD-Companion-1.1.1-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD-Companion-1.2.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD-Companion-1.1.1.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
+**Manual**: download **`KCD-Companion-1.2.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
 
 **Nexus Mods**: https://www.nexusmods.com/kingdomcomedeliverance/mods/2406
 
