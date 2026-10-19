@@ -39,15 +39,15 @@ Advance completes an objective without playing it. For most objectives the Compa
 
 ## Install
 
-**Installer**: download **`KCD-Companion-1.2.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD-Companion-1.2.1-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD-Companion-1.2.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
+**Manual**: download **`KCD-Companion-1.2.1.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. On Epic the game keeps `KingdomCome.exe` in `Bin\Win64MasterMasterEpicPGO`: move what the zip put in `Bin\Win64` (`autopilot.asi`, `dinput8.dll`, the `quest_autopilot` folder) there and delete the empty `Bin\Win64` (the installer does this itself). `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
 
 **Nexus Mods**: https://www.nexusmods.com/kingdomcomedeliverance/mods/2406
 
 ## Compatibility
 
-Built and tested on Steam build **1.9.8** (22623230). Unlock on the Achievements tab checks the game's reward code byte by byte and stays off on another version. Test on a copy of your save first.
+Built and tested on Steam build **1.9.8** (22623230). Unlock on the Achievements tab checks the game's reward code byte by byte and stays off on another version. GOG and Epic: not yet tested there; the installer finds both, and the Achievements tab works with Steam only. Test on a copy of your save first.
 
 ## Also by me
 
