@@ -25,7 +25,7 @@ The full suite for **Kingdom Come: Deliverance**, in one window inside the game 
 - **Me**: health, stamina, nourishment and energy (refill one or all), groschen in steps up to +10,000, the four attributes and eighteen skills (+1 / +5 / Max).
 - **Misc**: Save now (no Saviour Schnapps), Bring my horse, and eight **cheat modes**: God mode, Infinite stamina, Never hungry or tired, Unseen and unheard, Run twice as fast, Hit twice as hard, Carry far more, Learn three times as fast.
 - **People**: everyone loaded around you, by in-game name, with Go and Summon.
-- **Places**: villages, towns, monasteries and inns with their shops, alchemy tables, grindstones, baths and beds; towns land where the game's own fast travel lands; **Mark** and **Back**.
+- **Places**: villages, towns, monasteries and inns with their shops, alchemy tables, grindstones, baths and beds; towns land where the game's own fast travel lands; **Mark** and **Back**; type an **X** and **Y** to go straight to that spot (the tab shows where you stand).
 - **Chests**: every chest and stash in the level, locked ones marked.
 - **F8** goes to the current objective of the quest you last picked in the journal.
 - Jumps work on foot and on horseback and land on the floor.
@@ -39,9 +39,9 @@ Advance completes an objective without playing it. For most objectives the Compa
 
 ## Install
 
-**Installer**: download **`KCD-Companion-1.2.1-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`KCD-Companion-1.3.0-Installer.exe`** from the [latest release](../../releases) and run it. It finds the game through Steam, GOG or Epic (or paste the game folder), installs with one click, updates and uninstalls, and shows the panel in its own window while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`KCD-Companion-1.2.1.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. On Epic the game keeps `KingdomCome.exe` in `Bin\Win64MasterMasterEpicPGO`: move what the zip put in `Bin\Win64` (`autopilot.asi`, `dinput8.dll`, the `quest_autopilot` folder) there and delete the empty `Bin\Win64` (the installer does this itself). `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
+**Manual**: download **`KCD-Companion-1.3.0.zip`** from the same release and extract it into the game folder (Steam: right-click the game > Manage > Browse local files), keeping its folders. Start the game and load a save; press **F6**, or open **http://127.0.0.1:17603** in a browser on the same PC. On Epic the game keeps `KingdomCome.exe` in `Bin\Win64MasterMasterEpicPGO`: move what the zip put in `Bin\Win64` (`autopilot.asi`, `dinput8.dll`, the `quest_autopilot` folder) there and delete the empty `Bin\Win64` (the installer does this itself). `INSTALL.txt` in the zip lists every file it adds; deleting them uninstalls it. Coming from Quest Autopilot: extract over it; KCD Companion replaces its two files in `Mods\QuestAutopilot`.
 
 **Nexus Mods**: https://www.nexusmods.com/kingdomcomedeliverance/mods/2406
 
